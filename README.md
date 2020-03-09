@@ -9,3 +9,4 @@ NLP-based Steam recommendation Flask App
 * Tableau (Visualization)
 * Tfidif Vectorizer, LancasterStemmer, NMF (Text Features)
 * Flask (Website)
+* Bootstrap (Theme)

@@ -1,4 +1,4 @@
-# Steam Recommendation App (Still In Progress)
+# Steam Recommendation App (Code to be Uploaded)
 NLP-based Steam recommendation Flask App
 
 ![](images/demo_gif.gif)
